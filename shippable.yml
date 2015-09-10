@@ -1,5 +1,0 @@
-#language setting
-language:php
-#language version
-php:
-  - 5.6.13
